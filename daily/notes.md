@@ -6,3 +6,5 @@
 
 - Keep writing clean and calm in tone.
 
+- Let the content grow steadily over time.
+
