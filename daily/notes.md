@@ -10,3 +10,5 @@
 
 - Write short notes that capture key observations.
 
+- Highlight small wins or clear realizations.
+
