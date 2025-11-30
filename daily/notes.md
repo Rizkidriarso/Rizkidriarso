@@ -12,3 +12,5 @@
 
 - Highlight small wins or clear realizations.
 
+- Avoid long writing; prefer clear bullet points.
+
