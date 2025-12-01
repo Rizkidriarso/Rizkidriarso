@@ -14,3 +14,5 @@
 
 - Avoid long writing; prefer clear bullet points.
 
+- Track ideas that seem useful later on.
+
