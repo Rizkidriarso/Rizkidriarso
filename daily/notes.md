@@ -16,3 +16,5 @@
 
 - Track ideas that seem useful later on.
 
+- Maintain consistency by updating a little daily.
+
