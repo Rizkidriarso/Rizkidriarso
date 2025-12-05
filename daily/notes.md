@@ -18,3 +18,5 @@
 
 - Maintain consistency by updating a little daily.
 
+- Keep writing clean and calm in tone.
+
