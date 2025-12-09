@@ -22,3 +22,7 @@
 
 - Let the content grow steadily over time.
 
+
+Consider adding a contribution guide for community involvement.
+Explore potential integrations with popular developer tools like VS Code or GitHub Actions.
+
