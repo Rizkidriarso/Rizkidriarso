@@ -26,3 +26,7 @@
 Consider adding a contribution guide for community involvement.
 Explore potential integrations with popular developer tools like VS Code or GitHub Actions.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+Explore adding unit tests for the core logic of your projects.
+
