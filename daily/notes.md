@@ -35,3 +35,7 @@ Consider adding a README.md with project descriptions, setup instructions, and c
 
 Explore implementing CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a `README.md` file with project descriptions and installation instructions.
+Explore adding unit tests for key functionalities.
+
