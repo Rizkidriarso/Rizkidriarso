@@ -39,3 +39,7 @@ Explore implementing CI/CD pipelines for automated testing and deployment.
 Consider adding a `README.md` file with project descriptions and installation instructions.
 Explore adding unit tests for key functionalities.
 
+
+Consider adding a README with an overview of the projects and their purposes.
+Explore using GitHub Actions for automated testing or deployment.
+
