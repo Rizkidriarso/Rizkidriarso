@@ -43,3 +43,7 @@ Explore adding unit tests for key functionalities.
 Consider adding a README with an overview of the projects and their purposes.
 Explore using GitHub Actions for automated testing or deployment.
 
+
+*   Consider adding contribution guidelines.
+*   Explore creating a README with a clear project overview and setup instructions.
+
