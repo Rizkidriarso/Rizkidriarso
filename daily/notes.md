@@ -51,3 +51,6 @@ Explore using GitHub Actions for automated testing or deployment.
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Explore the possibility of creating a small demo or example project showcasing the core functionality.
 
+
+Potential for contributions to the Rizkidriarso project in the areas of documentation improvement and testing framework expansion.
+
