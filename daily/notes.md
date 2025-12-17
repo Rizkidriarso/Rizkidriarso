@@ -54,3 +54,8 @@ Explore the possibility of creating a small demo or example project showcasing t
 
 Potential for contributions to the Rizkidriarso project in the areas of documentation improvement and testing framework expansion.
 
+
+Consider adding a README that clearly outlines the project's purpose, setup instructions, and usage examples.
+
+Explore potential CI/CD integrations to automate testing and deployment.
+
