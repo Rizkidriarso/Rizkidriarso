@@ -59,3 +59,8 @@ Consider adding a README that clearly outlines the project's purpose, setup inst
 
 Explore potential CI/CD integrations to automate testing and deployment.
 
+
+Consider adding a README.md file to each project explaining its purpose, setup, and usage.
+
+Explore adding CI/CD pipelines for automated testing and deployment.
+
