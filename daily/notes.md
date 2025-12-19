@@ -64,3 +64,7 @@ Consider adding a README.md file to each project explaining its purpose, setup, 
 
 Explore adding CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a README.md with a project overview, setup instructions, and contribution guidelines.
+Explore creating a `CONTRIBUTING.md` file to clearly outline how others can help improve the repository.
+
