@@ -68,3 +68,10 @@ Explore adding CI/CD pipelines for automated testing and deployment.
 Consider adding a README.md with a project overview, setup instructions, and contribution guidelines.
 Explore creating a `CONTRIBUTING.md` file to clearly outline how others can help improve the repository.
 
+
+This repo seems to be focused on building RESTful APIs, potentially with a specific framework or architecture in mind.
+
+Consider adding:
+- A clear README outlining the project's purpose, technologies used, and setup instructions.
+- A CONTRIBUTING.md file to guide potential collaborators on how to contribute.
+
