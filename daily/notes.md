@@ -75,3 +75,7 @@ Consider adding:
 - A clear README outlining the project's purpose, technologies used, and setup instructions.
 - A CONTRIBUTING.md file to guide potential collaborators on how to contribute.
 
+
+*   Consider adding a README.md with project descriptions, installation instructions, and usage examples.
+*   Include a `.gitignore` file to exclude unnecessary files from version control.
+
