@@ -79,3 +79,7 @@ Consider adding:
 *   Consider adding a README.md with project descriptions, installation instructions, and usage examples.
 *   Include a `.gitignore` file to exclude unnecessary files from version control.
 
+
+Potential for open-sourcing utility scripts.
+Consider adding contribution guidelines.
+
