@@ -83,3 +83,7 @@ Consider adding:
 Potential for open-sourcing utility scripts.
 Consider adding contribution guidelines.
 
+
+- Consider adding a `.github/workflows` directory for CI/CD, perhaps to automate testing or building.
+- Explore the possibility of adding a `CONTRIBUTING.md` file to guide potential contributors.
+
