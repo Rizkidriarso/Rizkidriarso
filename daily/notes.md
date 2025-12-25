@@ -87,3 +87,8 @@ Consider adding contribution guidelines.
 - Consider adding a `.github/workflows` directory for CI/CD, perhaps to automate testing or building.
 - Explore the possibility of adding a `CONTRIBUTING.md` file to guide potential contributors.
 
+
+Potential addition: Implement a README.md with a clear project description, setup instructions, and contribution guidelines.
+
+Consider a CONTRIBUTING.md file to guide potential collaborators.
+
