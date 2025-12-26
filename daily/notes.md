@@ -92,3 +92,8 @@ Potential addition: Implement a README.md with a clear project description, setu
 
 Consider a CONTRIBUTING.md file to guide potential collaborators.
 
+
+Consider adding a README.md file with a clear description of the project, installation instructions, and usage examples.
+
+Explore incorporating CI/CD pipelines for automated testing and deployment.
+
