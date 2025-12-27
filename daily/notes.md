@@ -97,3 +97,7 @@ Consider adding a README.md file with a clear description of the project, instal
 
 Explore incorporating CI/CD pipelines for automated testing and deployment.
 
+
+* **Consider adding a `README.md` with a project overview, setup instructions, and examples.**
+* **Explore adding CI/CD pipelines for automated testing and deployment.**
+
