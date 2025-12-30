@@ -109,3 +109,8 @@ Explore incorporating CI/CD pipelines for automated testing and deployment.
 Consider adding a README.md with a project overview, setup instructions, and contribution guidelines.
 Explore adding CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a README.md that clearly outlines the project's purpose, setup instructions, and usage examples.
+
+Explore contributing guidelines for collaborative development if the repo is intended for open-source contributions.
+
