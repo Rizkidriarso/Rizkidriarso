@@ -118,3 +118,7 @@ Explore contributing guidelines for collaborative development if the repo is int
 Automate dependency updates.
 Consider a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a contribution guide.
+Explore potential CI/CD integration for automated testing and deployment.
+
