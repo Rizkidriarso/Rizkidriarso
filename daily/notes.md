@@ -114,3 +114,7 @@ Consider adding a README.md that clearly outlines the project's purpose, setup i
 
 Explore contributing guidelines for collaborative development if the repo is intended for open-source contributions.
 
+
+Automate dependency updates.
+Consider a CI/CD pipeline for automated testing and deployment.
+
