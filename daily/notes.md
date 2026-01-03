@@ -122,3 +122,8 @@ Consider a CI/CD pipeline for automated testing and deployment.
 Consider adding a contribution guide.
 Explore potential CI/CD integration for automated testing and deployment.
 
+
+Consider adding a section for "Projects" to showcase specific contributions or personal projects.
+
+Explore creating a "Contribution Guidelines" document to encourage community involvement and standardize contributions.
+
