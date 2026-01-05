@@ -127,3 +127,7 @@ Consider adding a section for "Projects" to showcase specific contributions or p
 
 Explore creating a "Contribution Guidelines" document to encourage community involvement and standardize contributions.
 
+
+Consider adding a contribution guide to outline how others can help.
+Explore CI/CD pipeline integration for automated testing and deployment.
+
