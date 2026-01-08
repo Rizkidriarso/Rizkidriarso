@@ -139,3 +139,7 @@ Explore potential integrations with other developer tools or services.
 Consider adding a `README.md` with a brief overview of the project's purpose and how to run it.
 Explore adding a CONTRIBUTING.md file to guide potential collaborators.
 
+
+Consider adding a README.md file to explain the purpose and usage of the repository.
+Explore using GitHub Actions for CI/CD to automate testing and deployment.
+
