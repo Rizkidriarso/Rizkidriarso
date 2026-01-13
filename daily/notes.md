@@ -147,3 +147,7 @@ Explore using GitHub Actions for CI/CD to automate testing and deployment.
 Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 Explore CI/CD pipelines to automate testing and deployment.
 
+
+*   Consider adding a README.md explaining the purpose and usage of the repositories.
+*   Implement CI/CD pipelines for automated testing and deployment.
+
