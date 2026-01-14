@@ -151,3 +151,7 @@ Explore CI/CD pipelines to automate testing and deployment.
 *   Consider adding a README.md explaining the purpose and usage of the repositories.
 *   Implement CI/CD pipelines for automated testing and deployment.
 
+
+*   Consider adding a contribution guide for potential collaborators.
+*   Explore CI/CD integration for automated testing and deployment.
+
