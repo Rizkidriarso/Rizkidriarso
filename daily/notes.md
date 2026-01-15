@@ -159,3 +159,7 @@ Explore CI/CD pipelines to automate testing and deployment.
 Consider a contribution guide for new developers.
 Explore options for CI/CD pipeline integration.
 
+
+*   Consider adding contribution guidelines to clarify how others can contribute.
+*   Explore implementing CI/CD pipelines for automated testing and deployment.
+
