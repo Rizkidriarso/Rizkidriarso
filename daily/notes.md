@@ -167,3 +167,7 @@ Explore options for CI/CD pipeline integration.
 - Consider a CONTRIBUTING.md file to guide potential contributors.
 - Explore using GitHub Actions for automated testing and deployment.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline guidelines for external contributors.
+Explore potential for a public demo or live example of the projects within the repository.
+
