@@ -175,3 +175,7 @@ Explore potential for a public demo or live example of the projects within the r
 *   **Consider adding a `CONTRIBUTING.md` file:** This would outline how others can contribute to your projects, including guidelines for submitting bug reports, feature requests, and pull requests.
 *   **Explore GitHub Actions for CI/CD:** Automating testing, building, and deployment can streamline your development workflow and ensure code quality.
 
+
+Potential for adding unit tests for core logic.
+Consider adding a CONTRIBUTING.md file to guide community involvement.
+
