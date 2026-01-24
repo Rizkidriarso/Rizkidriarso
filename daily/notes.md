@@ -179,3 +179,7 @@ Explore potential for a public demo or live example of the projects within the r
 Potential for adding unit tests for core logic.
 Consider adding a CONTRIBUTING.md file to guide community involvement.
 
+
+- Consider adding a contribution guide.
+- Explore CI/CD integration for automated testing and deployment.
+
