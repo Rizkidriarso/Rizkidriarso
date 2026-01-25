@@ -183,3 +183,8 @@ Consider adding a CONTRIBUTING.md file to guide community involvement.
 - Consider adding a contribution guide.
 - Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to the project, including bug reporting and pull request guidelines.
+
+Explore using GitHub Actions for automated testing, linting, and deployment to streamline the development workflow.
+
