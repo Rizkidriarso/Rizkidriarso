@@ -192,3 +192,8 @@ Explore using GitHub Actions for automated testing, linting, and deployment to s
 *   Consider adding automated dependency checks and security vulnerability scanning.
 *   Implement a clear contribution guide outlining code style, testing requirements, and pull request process.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+
+Explore using GitHub Actions for CI/CD, such as automated testing or deployment.
+
