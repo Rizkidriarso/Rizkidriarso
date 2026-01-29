@@ -197,3 +197,7 @@ Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 
 Explore using GitHub Actions for CI/CD, such as automated testing or deployment.
 
+
+* Consider adding CI/CD pipelines for automated testing and deployment.
+* Implement a comprehensive README with setup instructions, usage examples, and contribution guidelines.
+
